@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro7&layout=compact)
 ##
  <p>💡 Meu objetivo principal é consolidar minha carreira na área de Back-end</p>
- <p>💻 Developer and student in Python</p>
+ <p>💻 Developer e estudante em Python</p>
  <p>📚 Atualmente lendo: "Entendendo Algoritmos" - Aditya Y. Bhargava</p>
  <p>🤝 Sempre aberta a colaborações e contribuições</p>
 
