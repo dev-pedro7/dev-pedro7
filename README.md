@@ -7,7 +7,7 @@
 ##
  <p>💡 Meu objetivo principal é consolidar minha carreira na área de Back-end</p>
  <p>💻 Developer and student in Python</p>
- <p>📚 Atualmente lendo: "Entendendo Algoritmos" - Aditya Y. Bhargava/<p>
+ <p>📚 Atualmente lendo: "Entendendo Algoritmos" - Aditya Y. Bhargava</p>
  <p>🤝 Sempre aberta a colaborações e contribuições</p>
 
  <div style="display: inline_block"><br>
