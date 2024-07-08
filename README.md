@@ -5,8 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-pedro7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro7&layout=compact)
 ##
- <p>💡 Meu objetivo principal é consolidar minha carreira na área de Back-end</p>
- <p>💻 Developer e estudante em Python</p>
+ <p>💡 Meu objetivo principal é consolidar minha carreira na área Full Stack!</p>
+ <p>💻 Developer especializado em Python</p>
  <p>📚 Atualmente lendo: "Entendendo Algoritmos" - Aditya Y. Bhargava</p>
  <p>🤝 Sempre aberto a colaborações e contribuições</p>
 
