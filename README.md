@@ -5,10 +5,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-pedro7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro7&layout=compact)
 ##
- <p>💡 Meu objetivo principal é consolidar minha carreira na área Full Stack!</p>
- <p>💻 Developer especializado em Python</p>
- <p>📚 Atualmente lendo: "Entendendo Algoritmos" - Aditya Y. Bhargava</p>
- <p>🤝 Sempre aberto a colaborações e contribuições</p>
+ <p>💡 My main objective is to consolidate my career in the Full Stack area!</p>
+ <p>💻 Dev specialized in Python</p>
+ <p>📚 Currently reading: "Clean Code" - Uncle Bob</p>
+ <p>🤝 Always open to collaborations and contributions</p>
 
 <div style="display:inline_block">
     <img align ="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
