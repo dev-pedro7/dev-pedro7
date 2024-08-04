@@ -1,9 +1,9 @@
 ### Hello world, i am Pedro👋
 
 <a href="https://www.linkedin.com/in/pedro-toaldo-0000p" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro7&layout=compact) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-pedro7&show_icons=true&theme=radical) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-pedro7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro7&layout=compact)
 ##
  <p>💡 My main objective is to consolidate my career in the Full Stack area!</p>
  <p>💻 Dev specialized in Python</p>
