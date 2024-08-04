@@ -1,6 +1,6 @@
 ### Hello world, i am Pedro👋
 
-<a href="https://www.linkedin.com/in/pedro-toaldo-0000p" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-toaldo-0000p" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro7&layout=compact) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-pedro7&show_icons=true&theme=radical) 
 
