@@ -4,8 +4,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro7&layout=compact&theme=dark&card_width=500)
 
 ##
- <p>💡 My main objective is to consolidate my career in the Full Stack area!</p>
- <p>💻 Dev specialized in Python</p>
+ <p>💡 Computer Development and Networks</p>
+ <p>💻 Studying Software Sngineering</p>
  <p>📚 Currently reading: "Clean Code" - Uncle Bob</p>
  <p>🤝 Always open to collaborations and contributions</p>
 
