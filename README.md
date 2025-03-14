@@ -5,7 +5,7 @@
 
 ##
  <p>💡 Computer Development and Networks</p>
- <p>💻 Studying Software Sngineering</p>
+ <p>💻 Studying Software Engineering</p>
  <p>📚 Currently reading: "Clean Code" - Uncle Bob</p>
  <p>🤝 Always open to collaborations and contributions</p>
 
